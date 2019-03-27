@@ -7,7 +7,7 @@
 //
 
 #import "WQYViewController.h"
-
+#import <WQYHomeModule/Utils.h>
 @interface WQYViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"%d",[Utils checkPassword:@"2121"]);
 }
 
 - (void)didReceiveMemoryWarning

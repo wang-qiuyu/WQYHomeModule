@@ -1,0 +1,16 @@
+PODS:
+  - WQYHomeModule (0.1.0)
+
+DEPENDENCIES:
+  - WQYHomeModule (from `../`)
+
+EXTERNAL SOURCES:
+  WQYHomeModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WQYHomeModule: 9ce1cb9b1e9ab461b5c3cced18ad9b82b27bd381
+
+PODFILE CHECKSUM: bf8302666038eb4be2cb16ca214e9ed791c74226
+
+COCOAPODS: 1.6.1
